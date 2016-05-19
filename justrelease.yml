@@ -1,5 +1,5 @@
 version.update:
-    - xml
+    - *.xml
 create.artifacts:
         - mvn clean install
 publish:
